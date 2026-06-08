@@ -33,7 +33,6 @@ It balances:
 <img width="1912" height="842" alt="Screenshot 2026-03-07 132753" src="https://github.com/user-attachments/assets/67b8b9cf-630a-4d0d-9b3e-dfe3accfd5e6" />
 <img width="1898" height="824" alt="Screenshot 2026-03-07 132857" src="https://github.com/user-attachments/assets/7e2e2738-2939-449a-8445-b74cb628fe42" />
 
-
 ## 🛠️ Tech Stack
 - Python 3.13  
 - Streamlit  
